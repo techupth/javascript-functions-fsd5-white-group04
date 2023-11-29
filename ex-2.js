@@ -1,13 +1,13 @@
 // Start coding here
-function add(a, b) {
+let add = function (a, b) {
   return a + b;
-}
-function subtract(a, b) {
+};
+let subtract = function (a, b) {
   return a - b;
-}
-function multiply(a, b) {
+};
+let multiply = function (a, b) {
   return a * b;
-}
-function divide(a, b) {
+};
+let divide = function (a, b) {
   return a / b;
-}
+};
